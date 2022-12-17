@@ -8,7 +8,7 @@ import logo from './map_icon.png';
 function NavBar() {
   return (
     <>
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+    <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
       <Container>
       <Navbar.Brand href="#home">
           <img src={logo} className="App-logo" alt="logo" />
